@@ -12,6 +12,11 @@ How to run-
 4.change directory to the folder containing file that need to be passed in the call agrument (cd directory_address)
 4. execute command
       "bittmax_Gajendra.exe file_name1.csv file_name2.csv ........" (without qoutes and dot dot represent more files)
+      
+        ---------------------------------------------------or-------------------------------------------------
+        
+1. copy the .exe file form the repo. to the folder containing file that need to be passed in call argument
+2. do the step 4 from above.
 ---------------------------------------------------------------------------------------------------------------------------
 Points to remember-
 1. .exe file name should be correct
