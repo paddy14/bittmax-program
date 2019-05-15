@@ -21,6 +21,8 @@ How to run-
 Points to remember-
 1. .exe file name should be correct
 2. file that needs to be passed and the executable file should be in the same folder
-3. remember to include .csv extension after the file name else it will generate error
+3. remember to include .csv extension after the file name else it will generate error.
+4. When program asks for "which file 1.ZEC-AUD 2.LTC-AUD 3.BTC-AUD 4.ALL-UNIQUE-ID ",
+  Please enter the option, "1, 2, 3 or 4 " as per which file you want to open.
 
 
